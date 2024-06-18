@@ -11,6 +11,26 @@ then
     exit 1
 fi
 
+# Registrar o tempo de início
+start_time=$(date +%s)
+
+# Função para mostrar o tempo decorrido em tempo real
+show_elapsed_time() {
+    while true; do
+        current_time=$(date +%s)
+        elapsed=$((current_time - start_time))
+        hours=$((elapsed / 3600))
+        minutes=$(((elapsed % 3600) / 60))
+        seconds=$((elapsed % 60))
+        echo "Tempo decorrido: $hours horas, $minutes minutos e $seconds segundos."
+        sleep 10
+    done
+}
+
+# Iniciar a exibição do tempo decorrido em segundo plano
+show_elapsed_time &
+elapsed_time_pid=$!
+
 # Exclui todos os arquivos e pastas no caminho especificado
 delete_folder_content() {
     local path="$1"
@@ -49,3 +69,19 @@ rclone rmdirs "$REMOTE_NAME:$FOLDER_PATH"
 if [ $? -ne 0 ]; then
     echo "Erro ao deletar a pasta raiz: $FOLDER_PATH"
 fi
+
+# Matar o processo de exibição do tempo decorrido
+kill $elapsed_time_pid
+
+# Registrar o tempo de término
+end_time=$(date +%s)
+
+# Calcular a duração total em segundos
+duration=$((end_time - start_time))
+
+# Converter a duração para um formato legível
+hours=$((duration / 3600))
+minutes=$(((duration % 3600) / 60))
+seconds=$((duration % 60))
+
+echo "O script levou $hours horas, $minutes minutos e $seconds segundos para ser executado."
