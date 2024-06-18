@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # Defina o nome remoto do rclone e o caminho da pasta
@@ -13,7 +12,7 @@ then
 fi
 
 # Exclui todos os arquivos e pastas no caminho especificado
-function delete_folder_content {
+delete_folder_content() {
     local path="$1"
 
     echo "Processando: $path"
@@ -22,6 +21,9 @@ function delete_folder_content {
     rclone ls "$REMOTE_NAME:$path" | while read -r size file; do
         echo "Deletando arquivo: $file"
         rclone delete "$REMOTE_NAME:$path/$file"
+        if [ $? -ne 0 ]; then
+            echo "Erro ao deletar o arquivo: $file"
+        fi
     done
 
     # Listar e deletar subpastas no caminho especificado
@@ -32,6 +34,9 @@ function delete_folder_content {
         delete_folder_content "$path/$subfolder"
         echo "Deletando subpasta: $subfolder"
         rclone rmdirs "$REMOTE_NAME:$path/$subfolder"
+        if [ $? -ne 0 ]; then
+            echo "Erro ao deletar a subpasta: $subfolder"
+        fi
     done
 }
 
@@ -41,3 +46,6 @@ delete_folder_content "$FOLDER_PATH"
 # Deleta a pasta raiz especificada
 echo "Deletando pasta raiz: $FOLDER_PATH"
 rclone rmdirs "$REMOTE_NAME:$FOLDER_PATH"
+if [ $? -ne 0 ]; then
+    echo "Erro ao deletar a pasta raiz: $FOLDER_PATH"
+fi
