@@ -38,22 +38,22 @@ delete_folder_content() {
     echo "Processando: $path"
 
     # Listar e deletar arquivos no caminho especificado
-    rclone ls "$REMOTE_NAME:$path" | while read -r size file; do
+    rclone ls "$REMOTE_NAME:$path" --fast-list | while read -r size file; do
         echo "Deletando arquivo: $file"
-        rclone delete "$REMOTE_NAME:$path/$file"
+        rclone delete "$REMOTE_NAME:$path/$file" --transfers=16 --checkers=32 --fast-list
         if [ $? -ne 0 ]; then
             echo "Erro ao deletar o arquivo: $file"
         fi
     done
 
     # Listar e deletar subpastas no caminho especificado
-    rclone lsd "$REMOTE_NAME:$path" | while read -r line; do
+    rclone lsd "$REMOTE_NAME:$path" --fast-list | while read -r line; do
         # Extrair o nome da subpasta
         subfolder=$(echo "$line" | awk '{print $5}')
         echo "Deletando conteúdo da subpasta: $subfolder"
         delete_folder_content "$path/$subfolder"
         echo "Deletando subpasta: $subfolder"
-        rclone rmdirs "$REMOTE_NAME:$path/$subfolder"
+        rclone rmdirs "$REMOTE_NAME:$path/$subfolder" --transfers=16 --checkers=32 --fast-list
         if [ $? -ne 0 ]; then
             echo "Erro ao deletar a subpasta: $subfolder"
         fi
@@ -65,7 +65,7 @@ delete_folder_content "$FOLDER_PATH"
 
 # Deleta a pasta raiz especificada
 echo "Deletando pasta raiz: $FOLDER_PATH"
-rclone rmdirs "$REMOTE_NAME:$FOLDER_PATH"
+rclone rmdirs "$REMOTE_NAME:$FOLDER_PATH" --transfers=16 --checkers=32 --fast-list
 if [ $? -ne 0 ]; then
     echo "Erro ao deletar a pasta raiz: $FOLDER_PATH"
 fi
