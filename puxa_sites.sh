@@ -1,4 +1,3 @@
-root@BackupIGc:~# cat bkpIncremental.sh
 #! /bin/bash
 
 # config pasta destino do backup
