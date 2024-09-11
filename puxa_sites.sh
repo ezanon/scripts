@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # config pasta destino do backup
-DESTINO='/root/bkpIncremental/backup.0/'
+DESTINO='/sites/'
 
 # config pasta de logs
 LOGS=$DESTINO/_replica.log
