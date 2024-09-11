@@ -4,7 +4,7 @@
 DESTINO='/sites/'
 
 # config pasta de logs
-LOGS=$DESTINO/_replica.log
+LOGS=$DESTINO'/scripts/logs/puxa_sites'
 
 # marca inicio
 DATA=`date +%Y%m%d%H%M`
