@@ -8,7 +8,7 @@ LOGS=$DESTINO/_replica.log
 
 # marca inicio
 DATA=`date +%Y%m%d%H%M`
-echo $DATA > $DESTINO/_logs/geral.log
+echo $DATA > $LOGS/geral.log
 
 ######## MAQUINAS INICIO
 
@@ -30,4 +30,4 @@ rsync -avz --delete --rsh="ssh -p $PORTA -i /root/.ssh/id_rsa" root@$IP:$ORIGEM 
 
 # marca fim
 DATA=`date +%Y%m%d%H%M`
-echo $DATA >> $DESTINO/_logs/geral.log
+echo $DATA >> $LOGS/geral.log
