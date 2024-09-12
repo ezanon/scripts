@@ -4,7 +4,7 @@
 DESTINO='/sites/'
 
 # config pasta de logs
-LOGS=$DESTINO'/scripts/logs/puxa_sites'
+LOGS="${DESTINO}scripts/logs/puxa_sites"
 
 # marca inicio
 DATA=`date +%Y%m%d%H%M`
@@ -24,7 +24,7 @@ rsync -avz --delete --rsh="ssh -p $PORTA -i /root/.ssh/id_rsa" root@$IP:$ORIGEM 
 #IP='nuvem.igc.usp.br'
 #ORIGEM='/sites-usp'
 #PORTA=2720
-#rsync -avz --delete --rsh="ssh -p $PORTA -i /root/.ssh/id_rsa" root@$IP:$ORIGEM $DESTINO/$SERVIDOR/ > $LOGS/$SERVIDOR.log 2> $LOGS/$SERVIDOR.err
+#rsync -avz --delete --rsh="ssh -p $PORTA -i /root/.ssh/id_rsa" root@$IP:$ORIGEM $DESTINO/ > $LOGS/$SERVIDOR.log 2> $LOGS/$SERVIDOR.err
 
 ######## MAQUINAS FIM
 
