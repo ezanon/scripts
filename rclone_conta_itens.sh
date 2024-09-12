@@ -1,18 +1,19 @@
 #!/bin/bash
 
-# Verifica se a pasta foi passada como argumento
-if [ -z "$1" ]; then
-    echo "Uso: $0 <remote:path/para/pasta>"
+# Verifica se os parâmetros foram passados corretamente
+if [ -z "$1" ] || [ -z "$2" ]; then
+    echo "Uso: $0 <remote:path/para/pasta> <niveis>"
     exit 1
 fi
 
-# Define o caminho remoto
+# Define o caminho remoto e o número de níveis a serem percorridos
 REMOTE_PATH=$1
+NIVEIS=$2
 
 # Função para contar itens de uma pasta
 contar_itens() {
     local PASTA=$1
-    local NIVEIS=$2
+    local NIVEL_ATUAL=$2
 
     # Contar todos os itens (arquivos e pastas)
     TOTAL=$(rclone lsf "$PASTA" | wc -l)
@@ -30,15 +31,14 @@ contar_itens() {
     echo "---------------------"
 
     # Se ainda não alcançou o nível máximo, percorra as subpastas
-    if [ "$NIVEIS" -gt 0 ]; then
+    if [ "$NIVEL_ATUAL" -gt 0 ]; then
         # Listar as subpastas e percorrê-las
         SUBPASTAS=$(rclone lsf --dirs-only "$PASTA")
         for SUBPASTA in $SUBPASTAS; do
-            contar_itens "$PASTA/$SUBPASTA" $((NIVEIS - 1))
+            contar_itens "$PASTA/$SUBPASTA" $((NIVEL_ATUAL - 1))
         done
     fi
 }
 
-# Chama a função de contagem com 3 níveis de subpastas
-contar_itens "$REMOTE_PATH" 3
-
+# Chama a função de contagem com o número de níveis especificado
+contar_itens "$REMOTE_PATH" "$NIVEIS"
