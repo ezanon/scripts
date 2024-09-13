@@ -13,13 +13,15 @@ PASTA=$1
 ORIGEM="gdczanon:${PASTA}"
 DESTINO="gcs:usp-gcp-2000044-7fe99.usp.br/${PASTA}"
 
+# Exibir o comando rclone que será executado
+echo "Comando a ser executado: rclone -P --drive-scope 'drive' --gcs-bucket-policy-only --stats-one-line --drive-skip-shortcuts copy \"$ORIGEM\" \"$DESTINO\""
+
 # Executar o comando rclone com os remotos definidos
 rclone -P \
   --drive-scope "drive" \
   --gcs-bucket-policy-only \
   --stats-one-line \
-  --drive-skip-shortcuts \
-  --drive-acknowledge-abuse \
+  --drive-skip-shortcuts 
   copy "$ORIGEM" "$DESTINO"
 
 #  --drive-stop-on-download-limit \ dando erro
