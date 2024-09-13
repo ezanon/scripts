@@ -14,13 +14,15 @@ ORIGEM="gdczanon:${PASTA}"
 DESTINO="gcs:usp-gcp-2000044-7fe99.usp.br/${PASTA}"
 
 # Executar o comando rclone com os remotos definidos
-rclone -P --delete-before \
+rclone -P \
   --drive-scope "drive" \
   --gcs-bucket-policy-only \
   --stats-one-line \
   --drive-skip-shortcuts \
-  --drive-stop-on-download-limit \
+  --drive-acknowledge-abuse \
   copy "$ORIGEM" "$DESTINO"
+
+#  --drive-stop-on-download-limit \ dando erro
 
 # Verificar se o rclone terminou com sucesso
 if [ $? -eq 0 ]; then
