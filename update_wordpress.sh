@@ -24,6 +24,7 @@ declare -a directories=(
     "/sites-usp/rtopbrgeociencias/www"
     "/sites-usp/transamazondrilling/www"
     "/sites-usp/wims/www"
+    "/sites-usp/nwldw2025"
 )
 
 # Data atual no formato YYYYMMDD

@@ -21,7 +21,7 @@ rclone -P \
   --drive-scope "drive" \
   --gcs-bucket-policy-only \
   --stats-one-line \
-  --drive-skip-shortcuts 
+  --drive-skip-shortcuts \
   copy "$ORIGEM" "$DESTINO"
 
 #  --drive-stop-on-download-limit \ dando erro
