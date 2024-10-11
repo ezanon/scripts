@@ -1,7 +1,8 @@
 /nbproject/
 config.php
-teste*
+test*
 php.php
 /vendor
 .htaccess
 array.php
+logs*

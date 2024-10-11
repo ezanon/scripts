@@ -6,7 +6,7 @@ update-wp-multisite-logs
 WP_PATH=$(pwd)
 
 # Pasta para armazenar os logs
-LOG_DIR="$WP_PATH/update_wordpress_logs"
+LOG_DIR="$WP_PATH/logs/update-wp-multisite"
 
 # Verifica se a pasta de logs existe, senão, cria
 if [ ! -d "$LOG_DIR" ]; then

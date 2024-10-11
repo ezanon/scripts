@@ -2,6 +2,11 @@
 #!/bin/bash
 
 # Este script atualiza as instalações wordpress automaticamente
+
+# Arquivo de log com a data no nome
+current_date=$(date +"%Y%m%d") // Data atual no formato YYYYMMDD
+log_file="/sites-usp/scripts/logs/update_wordpress/update_wordpress_$current_date.log"
+
 # Basta adicionar a pasta do site na relação abaixo
 
 # Array de diretórios que contêm instalações do WordPress
@@ -27,12 +32,6 @@ declare -a directories=(
     "/sites-usp/nwldw2025"
     "/sites-usp/csts"
 )
-
-# Data atual no formato YYYYMMDD
-current_date=$(date +"%Y%m%d")
-
-# Arquivo de log com a data no nome
-log_file="/sites-usp/scripts/update_wordpress_logs/update_wordpress_$current_date.log"
 
 # Função para atualizar uma instalação do WordPress
 update_wordpress() {
