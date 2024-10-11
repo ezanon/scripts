@@ -1,0 +1,1 @@
+select codpescra, sitpescra, tipvinaux, nompescra, numserchi, nomorg from replica.dbo.CATR_CRACHA where codoriclgund=44 order by codpescra

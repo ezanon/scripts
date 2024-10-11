@@ -6,3 +6,5 @@ php.php
 .htaccess
 array.php
 logs*
+*log
+*err

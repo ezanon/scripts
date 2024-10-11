@@ -1,0 +1,959 @@
+REPLICA INICIADA EM 06-08-2015 09-49-41
+
+UNIDADE 44 IGc     Instituto de Geociências
+ATUALIZADO: IGc 1000482 João Barros de Alencar Neto
+ATUALIZADO: IGc 1032978 Lucelene Martins
+ATUALIZADO: IGc 1140795 Fernando Augusto Saraiva
+ATUALIZADO: IGc 1143210 Francisco de Assis Cavallaro
+ATUALIZADO: IGc 1143210 Francisco de Assis Cavallaro
+ATUALIZADO: IGc 1144545 Helen Mayumi Sonoki
+ATUALIZADO: IGc 1167565 Jorge Hachiro
+ATUALIZADO: IGc 117042 Daniela Garroux Gonçalves de Oliveira
+ATUALIZADO: IGc 120182 Edilson Pissato
+ATUALIZADO: IGc 1212210 Maria Irene Bartolomeu Raposo
+ATUALIZADO: IGc 1232780 Marcelo Monteiro da Rocha
+ATUALIZADO: IGc 1250273 Orlando Lima
+ATUALIZADO: IGc 1279386 Paulo Cesar Boggiani
+ATUALIZADO: IGc 1299785 Osvaldo Aly Junior
+ATUALIZADO: IGc 1345998 Paulo Cesar Fonseca Giannini
+ATUALIZADO: IGc 1432369 Marco Antonio Netto Chamadoira
+ATUALIZADO: IGc 1440410 Marlei Antônio Carrari Chamani
+ATUALIZADO: IGc 146604 Eliane Aparecida Del Lama
+ATUALIZADO: IGc 1471721 Maria da Gloria Motta Garcia
+ATUALIZADO: IGc 1560122 Maria Aparecida Laet
+ATUALIZADO: IGc 1563783 Paulo Eduardo de Oliveira
+ATUALIZADO: IGc 1576505 Maria Judite Garcia
+ATUALIZADO: IGc 1598591 Marcia Cerqueira Souza
+ATUALIZADO: IGc 1746870 Sonia Regina Yole Guerra
+ATUALIZADO: IGc 1782586 Sandra Andrade
+ATUALIZADO: IGc 1789788 Reginaldo Antonio Bertolo
+ATUALIZADO: IGc 1793352 Veridiana Teixeira de Souza Martins
+ATUALIZADO: IGc 1801388 Regina Aparecida de Queiroz Franco Oliveira
+ATUALIZADO: IGc 1802740 Roberto Siqueira
+ATUALIZADO: IGc 1802970 Ricardo Cesar Aoki Hirata
+ATUALIZADO: IGc 1829611 Rosa Maria da Silveira Bello
+ATUALIZADO: IGc 1858979 Sidney Schaberle Goveia
+ATUALIZADO: IGc 1887798 Veronica Gabriel Santos
+ATUALIZADO: IGc 1997338 Valéria Terence
+ATUALIZADO: IGc 2012268 Regina Helena Rodrigues Cintra Baptista
+ATUALIZADO: IGc 2048810 Ruy Paulo Philipp
+ATUALIZADO: IGc 2052941 Renato Paes de Almeida
+ATUALIZADO: IGc 2082204 Irineu Marques Souza
+ATUALIZADO: IGc 20823 Miguel Angelo Stipp Basei
+ATUALIZADO: IGc 2083953 Sonia Maria Barros de Oliveira
+ATUALIZADO: IGc 2087213 Excelso Ruberti
+ATUALIZADO: IGc 2087241 Uriel Duarte
+ATUALIZADO: IGc 2087679 Wilson Teixeira
+ATUALIZADO: IGc 2088513 Joel Barbujiani Sigolo
+ATUALIZADO: IGc 2104483 Paulo Ernesto Mori
+ATUALIZADO: IGc 2117101 André Zular
+ATUALIZADO: IGc 21212 Umberto Giuseppe Cordani
+ATUALIZADO: IGc 2147881 Alexandre Magno de Sousa Maximiano
+ATUALIZADO: IGc 2148176 Francisco William da Cruz Júnior
+ATUALIZADO: IGc 2199715 Hellen Cristina Damaso
+ATUALIZADO: IGc 2245960 Andre Oliveira Sawakuchi
+ATUALIZADO: IGc 2246377 Frederico Meira Faleiros
+ATUALIZADO: IGc 2270660 Carlos Jose Archanjo
+ATUALIZADO: IGc 2353658 Alexandro Alberto Pereira
+ATUALIZADO: IGc 2375893 Paulo Lojkasek Lima
+ATUALIZADO: IGc 2384225 Carlos Sidney Pacheco
+ATUALIZADO: IGc 2387399 Jose Abrantes Assir
+ATUALIZADO: IGc 2396890 Cisco Kid Tenorio
+ATUALIZADO: IGc 2398061 Maria de Lurdes Correia
+ATUALIZADO: IGc 2398572 Rosi Carvalho Lemos
+ATUALIZADO: IGc 2399941 Vera Lucia Tardelli
+ATUALIZADO: IGc 2400705 Itacy Kroehne
+ATUALIZADO: IGc 2400942 Claudio Hopp
+ATUALIZADO: IGc 2401623 Jaime de Souza Marcos
+ATUALIZADO: IGc 2401800 Cleide Maria dos Santos Francisco
+ATUALIZADO: IGc 2401971 Joao Baptista Correa
+ATUALIZADO: IGc 2403740 Celia Marina Queiroz da Silva
+ATUALIZADO: IGc 2404272 Maria Eugenia Rubira Albuquerque
+ATUALIZADO: IGc 2411767 Ivone Keiko Sonoki
+ATUALIZADO: IGc 2416592 Marcos de Souza Mansueto
+ATUALIZADO: IGc 2418138 Antonio Orsi
+ATUALIZADO: IGc 2418531 Celia Regina Feliciano Cesar
+ATUALIZADO: IGc 2419081 Marilda Ivani Pamponet de Menezes
+ATUALIZADO: IGc 2421021 Maria Aparecida Lopes de Oliveira
+ATUALIZADO: IGc 2423110 Elias Pereira de Souza
+ATUALIZADO: IGc 2425140 Iolanda Hiybali Guibo Nakasima
+ATUALIZADO: IGc 2426325 Reynaldo Pena Castellon
+ATUALIZADO: IGc 2427802 Teresa Beatriz Nunes Guimaraes
+ATUALIZADO: IGc 2428074 Claudionor Barboza
+ATUALIZADO: IGc 2433900 Jose Cicero de Oliveira
+ATUALIZADO: IGc 2435513 Liliane Aparecida Petronilho
+ATUALIZADO: IGc 2440307 Ricardo dos Santos Pena
+ATUALIZADO: IGc 2443001 Paulo Roberto Molinaro
+ATUALIZADO: IGc 2445532 Sonia Gomes Costa Vieira
+ATUALIZADO: IGc 2446151 Manuel de Jesus Sousa
+ATUALIZADO: IGc 2448618 Daniel Machado
+ATUALIZADO: IGc 2452499 Airton Vilela de Oliveira
+ATUALIZADO: IGc 2455314 Madalena Moniz Garcia Franzon
+ATUALIZADO: IGc 2456187 Irani Soares Cavalcante Gonçalves
+ATUALIZADO: IGc 2462538 Tadeu Caggiano
+ATUALIZADO: IGc 2462584 Luceir Oliveira da Costa Caetano
+ATUALIZADO: IGc 2463946 Luiz Carlos Dias da Rocha
+ATUALIZADO: IGc 2468701 Marines Lopes da Silva
+ATUALIZADO: IGc 2469059 Julio de Jesus dos Santos
+ATUALIZADO: IGc 2471323 Walter Mauricio Sproesser
+ATUALIZADO: IGc 2471473 Roseane Damiao da Silva
+ATUALIZADO: IGc 2471581 Maria do Desterro Barbosa Santos
+ATUALIZADO: IGc 2478640 Valeria Cristina de Souza Reis Santos
+ATUALIZADO: IGc 2479492 Paulo Christian Pires
+ATUALIZADO: IGc 2479961 Lucia Helena da Silva Yamashita
+ATUALIZADO: IGc 2482090 Jose Carlos Batista
+ATUALIZADO: IGc 2484630 Henrique Martins
+ATUALIZADO: IGc 2485965 Paulo Rodrigues de Lima
+ATUALIZADO: IGc 2486312 Nelson Soares do Nascimento
+ATUALIZADO: IGc 2487394 Ivone Cardoso Gonzales
+ATUALIZADO: IGc 2488252 Antonio Ribas Peres
+ATUALIZADO: IGc 2488360 Silvio Luiz Pereira
+ATUALIZADO: IGc 2488843 Ricardo Silva Cardenete
+ATUALIZADO: IGc 2488905 Elaine Aparecida da Silva Sinfronio
+ATUALIZADO: IGc 2489570 Durval Jose de Oliveira
+ATUALIZADO: IGc 2490940 Mario Noda
+ATUALIZADO: IGc 2490961 Nicia Maria Brandao Zalaf
+ATUALIZADO: IGc 2491253 Maristela Prestes Severino
+ATUALIZADO: IGc 2491750 Josefa Francisca da Silva Ferreira
+ATUALIZADO: IGc 2494493 Vicente Jose Viana
+ATUALIZADO: IGc 2496352 Sueli dos Santos
+ATUALIZADO: IGc 2496651 Celina Felipe Flauzino
+ATUALIZADO: IGc 2496731 Edmir de Oliveira
+ATUALIZADO: IGc 2496964 Sonia Maria Cesar
+ATUALIZADO: IGc 2497120 Samuel Pedro Egidio
+ATUALIZADO: IGc 2500526 Erika Jeannette Malo Millanao
+ATUALIZADO: IGc 2501600 Marivaldo Silva dos Santos
+ATUALIZADO: IGc 2502487 Mauricio Rodrigues dos Santos
+ATUALIZADO: IGc 2506602 Maria Celestina da Silva
+ATUALIZADO: IGc 2507030 Brenda Maria Mascarenhas Guimaraes
+ATUALIZADO: IGc 2508048 Silvana Macedo
+ATUALIZADO: IGc 2508393 Erica Celeste do Nascimento
+ATUALIZADO: IGc 2508500 Maria da Silva Alves dos Santos
+ATUALIZADO: IGc 2510628 Solange Lucena de Souza
+ATUALIZADO: IGc 2510830 Paulo Augusto Morgato
+ATUALIZADO: IGc 2511081 Nelson Gomes Xavier
+ATUALIZADO: IGc 2511417 Antonio Soares Viana
+ATUALIZADO: IGc 2512770 Thelma Maria Collaco Samara
+ATUALIZADO: IGc 2520988 Christine Laure Marie Bourotte
+ATUALIZADO: IGc 2531069 Fontaine Franco
+ATUALIZADO: IGc 25895 Antonio Carlos Rocha Campos
+ATUALIZADO: IGc 25915 Darcy Pedro Svizzero
+ATUALIZADO: IGc 25936 Georg Robert Sadowski
+ATUALIZADO: IGc 25961 Jose Barbosa de Madureira Filho
+ATUALIZADO: IGc 25982 Koji Kawashita
+ATUALIZADO: IGc 25999 Mary Elizabeth Cerruti Bernardes de Oliveira
+ATUALIZADO: IGc 26023 Nelson Ellert
+ATUALIZADO: IGc 26065 Vicente Antonio Vitorio Girardi
+ATUALIZADO: IGc 2658898 Luiz Claudio Nogueira
+ATUALIZADO: IGc 2675702 Rita de Cassia Angelino da Silva Oliveira
+ATUALIZADO: IGc 2687164 Joao Roberto de Oliveira
+ATUALIZADO: IGc 2717611 Luzia Sonia Candeo
+ATUALIZADO: IGc 2764114 Ivoneide Emidio Gattei
+ATUALIZADO: IGc 2765456 Largila Regina Barboza Malheiros Figueira
+ATUALIZADO: IGc 2769568 Marlene Goncalves Rodrigues
+ATUALIZADO: IGc 2769662 Maria Ivone Basso
+ATUALIZADO: IGc 2779020 Maria Cristina Fontanive de Amaral Bastos de Morai
+ATUALIZADO: IGc 2804730 Genivaldo Doria Palmeira
+ATUALIZADO: IGc 2810904 Vasco Antonio Pereira dos Loios
+ATUALIZADO: IGc 2811801 Clodoaldo Machado Alcantara
+ATUALIZADO: IGc 2841555 Silmara Pereira Villela
+ATUALIZADO: IGc 2873888 Eva Kaiser Mori
+ATUALIZADO: IGc 28898 Francisco Rubens Alves
+ATUALIZADO: IGc 2909296 Raquel da Mota Camara
+ATUALIZADO: IGc 2930061 André Moreira de Camargo
+ATUALIZADO: IGc 295480 Denise de La Corte Bacci
+ATUALIZADO: IGc 295900 Angela Tadeu Massela
+ATUALIZADO: IGc 2959469 Liza Angelica Polo
+ATUALIZADO: IGc 2959813 Rogério Guitarrari Azzone
+ATUALIZADO: IGc 2962373 Erickson Zanon
+ATUALIZADO: IGc 2987850 José Paulo Sertek
+ATUALIZADO: IGc 2987864 Denise Cristina Menegon Cristovam
+ATUALIZADO: IGc 2988312 Andre Luiz Inacio
+ATUALIZADO: IGc 3102002 Adriana Alves
+ATUALIZADO: IGc 3105173 Alessandra Miranda Crespi
+ATUALIZADO: IGc 3110818 Giselle Magdaleno Enrich
+ATUALIZADO: IGc 3114527 Alexandra Vieira Suhogusoff
+ATUALIZADO: IGc 3136504 Miriam Della Posta de Azevedo
+ATUALIZADO: IGc 3264042 Vanderlei Vieira
+ATUALIZADO: IGc 3308673 Ernesto Massayoshi Sumi
+ATUALIZADO: IGc 3371466 Elí Cristina Caçador
+ATUALIZADO: IGc 3391865 Joelma de Jesus Costa
+ATUALIZADO: IGc 3391890 Claudia de Queiros Macedo
+ATUALIZADO: IGc 3446198 Maria Luzinete Correia da Silva
+ATUALIZADO: IGc 3463041 Vidyã Vieira de Almeida
+ATUALIZADO: IGc 3466854 Rafael Gonçalves da Motta
+ATUALIZADO: IGc 3467132 Patricia Marques Magon
+ATUALIZADO: IGc 3467793 Saulo Batista de Oliveira
+ATUALIZADO: IGc 3470199 Mauricio Pavan Silva
+ATUALIZADO: IGc 3501515 Juliana de Moraes Leme Basso
+ATUALIZADO: IGc 3501922 Marina Isoldi Marcos dos Santos
+ATUALIZADO: IGc 3524128 Jose Domingos Faraco Gallas
+ATUALIZADO: IGc 3576141 Claudio Lima Rodrigues
+ATUALIZADO: IGc 3577076 Cristina Aparecida Ribeiro do Prado
+ATUALIZADO: IGc 3578741 Solange Oliveira da Silva
+ATUALIZADO: IGc 3609870 Katherine Kutsumbos Hummel
+ATUALIZADO: IGc 3610396 Solange Moni
+ATUALIZADO: IGc 3651023 Marcelo Denser Monteiro
+ATUALIZADO: IGc 3655903 Felipe Pinheiro
+ATUALIZADO: IGc 365644 Angelica Dolores de Mello Morente
+ATUALIZADO: IGc 3659400 Márcia Maria Antolini da Rocha Carvalheiro
+ATUALIZADO: IGc 3667584 Caue Rodrigues Cioffi
+ATUALIZADO: IGc 3681927 Pedro Moraes Reis
+ATUALIZADO: IGc 3682143 Fernanda Maciel Canile
+ATUALIZADO: IGc 3682164 Bernardo Tavares Freitas
+ATUALIZADO: IGc 3791468 Nanci Iurico Assakura
+ATUALIZADO: IGc 3795218 Wagner Venancio de Araujo
+ATUALIZADO: IGc 390517 Claudio Satoru Higa
+ATUALIZADO: IGc 4101862 Isabel Cortez Christiano de Souza
+ATUALIZADO: IGc 4137427 Raquel Mamblona Marques Romão
+ATUALIZADO: IGc 4137427 Raquel Mamblona Marques Romao
+ATUALIZADO: IGc 4271525 Laura Yumi Furukawa
+ATUALIZADO: IGc 42950 Arlei Benedito Macedo
+ATUALIZADO: IGc 4356881 Leonardo Jose Bruno
+ATUALIZADO: IGc 43760 Adilson Carvalho
+ATUALIZADO: IGc 44211 Paulo Roberto dos Santos
+ATUALIZADO: IGc 4454988 Priscila Lydia Petrelli
+ATUALIZADO: IGc 4470635 Rafael Calzolari Buchidid
+ATUALIZADO: IGc 45122 Yushiro Kihara
+ATUALIZADO: IGc 4514164 Guilherme Yago de Oliveira Motta
+ATUALIZADO: IGc 4517042 Vinícius Zacatei dos Santos Teixeira
+ATUALIZADO: IGc 4538661 Rebeca Ribeiro Bombonato
+ATUALIZADO: IGc 4566065 Caio Ribeiro de Mello
+ATUALIZADO: IGc 461436 Antonio Tadashi Kikuda
+ATUALIZADO: IGc 461436 Antonio Tadashi Kikuda
+ATUALIZADO: IGc 4658752 Alexandre Blumer Bezerra
+ATUALIZADO: IGc 4732741 Afonso Reis Furim
+ATUALIZADO: IGc 4769436 Valeria Fajardo Montanholli
+ATUALIZADO: IGc 4863887 Maria Helena Bezerra Maia de Hollanda
+ATUALIZADO: IGc 4864186 Ligia Maria de Almeida Leite Ribeiro
+ATUALIZADO: IGc 4882392 Felipe Brito Mapa
+ATUALIZADO: IGc 4896859 Talita Cristina de Oliveira Ferreira
+ATUALIZADO: IGc 4896870 Brenda Chung da Rocha
+ATUALIZADO: IGc 4896988 Thaís Nogueira Hyppolito Meira
+ATUALIZADO: IGc 4897012 Thais Trevisani Moura
+ATUALIZADO: IGc 4897033 Andre Marconato
+ATUALIZADO: IGc 4897075 Guilherme Jose Rampazzo
+ATUALIZADO: IGc 4897137 Paulo Affonso de Andre Junior
+ATUALIZADO: IGc 4897190 Rodrigo Ferreira de Lucena
+ATUALIZADO: IGc 4900679 Bruno Yuitiro Maruyama
+ATUALIZADO: IGc 4981660 Renato de Moraes
+ATUALIZADO: IGc 501086 Érica Beatriz Pinto Moreschi de Oliveira
+ATUALIZADO: IGc 5093953 Marisa Santiago Pugas
+ATUALIZADO: IGc 5121727 Silvia Aparecida Molinas Ferreira
+ATUALIZADO: IGc 5123420 Joao Paulo Abujamra
+ATUALIZADO: IGc 5125401 Felix Nannini
+ATUALIZADO: IGc 5125530 Rafael de Araujo Campanha
+ATUALIZADO: IGc 5125572 Bruno Lagler
+ATUALIZADO: IGc 5125648 Nicolas Misailidis Strikis
+ATUALIZADO: IGc 5125680 Alice Westin Teixeira
+ATUALIZADO: IGc 5129920 Gabriel Vinicius Morais de Andrade
+ATUALIZADO: IGc 5135712 Eduardo Toshio Sato
+ATUALIZADO: IGc 5140402 Gustavo Macedo de Paula Santos
+ATUALIZADO: IGc 516030 Claudia Regina Passarelli
+ATUALIZADO: IGc 5168521 Andre Luiz Silva Pestilho
+ATUALIZADO: IGc 5198143 Diego Fróes e Souza
+ATUALIZADO: IGc 5210702 Leonardo Jose Cappucci
+ATUALIZADO: IGc 5210719 Claudia dos Santos
+ATUALIZADO: IGc 5229672 Rafael Casati
+ATUALIZADO: IGc 5249160 Luiz Rogério Andrade de Oliveira Rodarte
+ATUALIZADO: IGc 53347 Valdecir de Assis Janasi
+ATUALIZADO: IGc 5380713 Jose Vinicius Martins
+ATUALIZADO: IGc 5381422 Layra Malacrida Artilian
+ATUALIZADO: IGc 5384572 Rodrigo Burckauser Robert
+ATUALIZADO: IGc 5384641 Julio Sergio Gomes Esteves
+ATUALIZADO: IGc 5384811 Thyago de Oliveira da Silva
+ATUALIZADO: IGc 5384867 Daphne Silva Pino
+ATUALIZADO: IGc 5385083 Fabio Brentan
+ATUALIZADO: IGc 5385090 Vinicius Ribau Mendes
+ATUALIZADO: IGc 5385103 Giovanna de Souza Pereira
+ATUALIZADO: IGc 5385249 Pedro Augusto da Silva Rosa
+ATUALIZADO: IGc 5385656 Letícia Breda Paixão
+ATUALIZADO: IGc 5413330 Roberta Bullio Ferrari
+ATUALIZADO: IGc 5426348 Carlos Eduardo Manjon Mazoca
+ATUALIZADO: IGc 5426348 Carlos Eduardo Manjon Mazoca
+ATUALIZADO: IGc 5447950 Daniela Carneiro da Silva
+ATUALIZADO: IGc 5451545 Valdir Felipe Novello
+ATUALIZADO: IGc 5464313 Viktor Yuri Doná Sumida
+ATUALIZADO: IGc 5518409 Cristina Maura da Silva Martins
+ATUALIZADO: IGc 5528602 Marciano Marcos Marques
+ATUALIZADO: IGc 5530988 Guilherme Raffaeli Romero
+ATUALIZADO: IGc 5539257 Edvaldo Sorrini
+ATUALIZADO: IGc 5585840 Marcelha Paes Landim
+ATUALIZADO: IGc 5589121 Alessandra Cesare
+ATUALIZADO: IGc 5604785 Bruna Catarino Xavier
+ATUALIZADO: IGc 5622538 Leonardo Meneses Lima
+ATUALIZADO: IGc 562773 Amarildo Salina Ruiz
+ATUALIZADO: IGc 5637886 Audrey Schon Rodrigues
+ATUALIZADO: IGc 5641432 Adriana Spinola Franco
+ATUALIZADO: IGc 5641450 Alexander Martin Silveira Gimenez
+ATUALIZADO: IGc 5641554 Gustavo Faria Braga Vieira
+ATUALIZADO: IGc 5641616 Marcos Hortencio Junior
+ATUALIZADO: IGc 5641620 Letícia Gameiro Leonel
+ATUALIZADO: IGc 5641791 Claudio Alejandro Salazar Mora
+ATUALIZADO: IGc 5641828 Renan Garcia Lopes
+ATUALIZADO: IGc 5641915 André de Sousa Pires
+ATUALIZADO: IGc 5641961 Fares Ferreira Pessoa
+ATUALIZADO: IGc 5643959 Luciana Nogueira de Paula Souza
+ATUALIZADO: IGc 56441 Jorge Kazuo Yamamoto
+ATUALIZADO: IGc 5646733 Bruna Bortoluzzi Miraya
+ATUALIZADO: IGc 5661421 Mauri Fujinami Hirata
+ATUALIZADO: IGc 5673247 Thalita Vivianne de Almeida
+ATUALIZADO: IGc 5679469 Marlon Ferreira de Sa
+ATUALIZADO: IGc 5684009 Cristiano Padalino Galeazzi
+ATUALIZADO: IGc 56948 Caetano Juliani
+ATUALIZADO: IGc 5700747 Maria Carolina Amorim Catunda
+ATUALIZADO: IGc 5714965 Eduardo Henrique de Moraes Takafuji
+ATUALIZADO: IGc 5714986 Daniel Samugim
+ATUALIZADO: IGc 5755975 Fabricio Javier Lopez Barreyro
+ATUALIZADO: IGc 5758300 Katia Maria Bruno Ferreira
+ATUALIZADO: IGc 5801361 Giselle Utida
+ATUALIZADO: IGc 5801527 Daniela da Conceição Gamito
+ATUALIZADO: IGc 5871655 Mariana Prado Ventura
+ATUALIZADO: IGc 5871742 Patricia Tavares Cardoso
+ATUALIZADO: IGc 5871770 Sivanilde da Silva Santos
+ATUALIZADO: IGc 5871784 Cibele Cruz Dantas
+ATUALIZADO: IGc 5871888 Danielle Grossi
+ATUALIZADO: IGc 5896336 Kelly Brandao Vaz da Silva
+ATUALIZADO: IGc 5896490 Diego Hernane de Freitas Sousa
+ATUALIZADO: IGc 5896506 Gilberto Yoshikazu Terakado
+ATUALIZADO: IGc 5896621 Lucas Villela Cassini
+ATUALIZADO: IGc 5896722 Caio Arthur Santos
+ATUALIZADO: IGc 5896750 Bia Rago
+ATUALIZADO: IGc 5896771 Glaucia Silva Barreto
+ATUALIZADO: IGc 5896934 Letícia Freitas Guimarães
+ATUALIZADO: IGc 5916226 Mariana dos Santos Toledo Busarello
+ATUALIZADO: IGc 5932002 Nivia Flores Mourao
+ATUALIZADO: IGc 595922 Edson Ie
+ATUALIZADO: IGc 5979130 Carlos Mario Echeverri Misas
+ATUALIZADO: IGc 5992730 Marco Aurelio Santos Ribeiro
+ATUALIZADO: IGc 5994670 Mariana Cossa de Oliveira
+ATUALIZADO: IGc 607751 Artur Takashi Onoe
+ATUALIZADO: IGc 60922 Oswaldo Siga Junior
+ATUALIZADO: IGc 6153919 Mônica Priscila Lopes
+ATUALIZADO: IGc 6156519 Gabriel Junqueira Alberton
+ATUALIZADO: IGc 6227212 Debora Silva Queiroz
+ATUALIZADO: IGc 6261292 Vanda Brito de Medeiros
+ATUALIZADO: IGc 6283713 Diogo Braz Soares
+ATUALIZADO: IGc 6371513 Carlos Eduardo Souto de Oliveira
+ATUALIZADO: IGc 6409052 Mariangela Previato
+ATUALIZADO: IGc 6414851 Tayane Espirito Santo Ferreira
+ATUALIZADO: IGc 6424720 Jonathan Carvalhaes Batista
+ATUALIZADO: IGc 6427935 Mariana da Costa Gomes Cascarelli
+ATUALIZADO: IGc 6430290 Mariana Robertti Ambrosio
+ATUALIZADO: IGc 6430877 Adriana Elaine da Silva
+ATUALIZADO: IGc 6432924 Vanessa Costa Mucivuna
+ATUALIZADO: IGc 6432991 Sandra Vivian Fernandes Vituriano
+ATUALIZADO: IGc 6433028 Carlos Eduardo da Silva
+ATUALIZADO: IGc 6433032 Elis Camelo Fernandes
+ATUALIZADO: IGc 6433095 Sulma Yogar Dantas Montano
+ATUALIZADO: IGc 6433140 Reginaldo Vitorino dos Santos
+ATUALIZADO: IGc 6433182 Caio Christofolletti
+ATUALIZADO: IGc 6433223 Renato Bezner Martinez
+ATUALIZADO: IGc 6433265 Guilherme Pereira Bento Garcia
+ATUALIZADO: IGc 6433310 Vitor Herren Manganelli
+ATUALIZADO: IGc 6433331 Luiz Antonio Urtiga e Silva
+ATUALIZADO: IGc 6433373 Dimas Ramos Crivelente
+ATUALIZADO: IGc 6433394 Camila Duelis Viana
+ATUALIZADO: IGc 6433442 Dailson José Bertassoli Junior
+ATUALIZADO: IGc 6433456 Victor Camara Maurer
+ATUALIZADO: IGc 6433543 Guilherme Nunes Fernandez
+ATUALIZADO: IGc 6433612 Ivan Pereira Marques
+ATUALIZADO: IGc 6444632 Thiago Antonio dos Santos
+ATUALIZADO: IGc 6452861 Larissa Natsumi Tamura
+ATUALIZADO: IGc 6455433 Gabriel Santos Marinho Alvares
+ATUALIZADO: IGc 6473872 Rafael de Carvalho Capelle
+ATUALIZADO: IGc 64902 Teodoro Isnard Ribeiro de Almeida
+ATUALIZADO: IGc 6508254 Priscila da Silva Fuentes
+ATUALIZADO: IGc 6514481 Juscilei Alves de Melo
+ATUALIZADO: IGc 6514501 Clovis Aparecido de Camargo Junior
+ATUALIZADO: IGc 6514518 Eduardo Francisco Ribeiro
+ATUALIZADO: IGc 6533343 Eline Alves de Souza Barreto
+ATUALIZADO: IGc 6533513 Anibal Bem David Albino Muchimbane
+ATUALIZADO: IGc 6550179 Marcos Henrique da Costa
+ATUALIZADO: IGc 6552633 Amanda Yukari Takahashi
+ATUALIZADO: IGc 6552640 Gabriel Zinato Rosa
+ATUALIZADO: IGc 6552654 Helena Asmar de Abreu Andrade
+ATUALIZADO: IGc 6552675 Simone Campos Carrera
+ATUALIZADO: IGc 6593087 Erico Imbernon Machado
+ATUALIZADO: IGc 6595155 Renato Carvalho e Silva
+ATUALIZADO: IGc 6605311 Rodrigo Azzi Silva
+ATUALIZADO: IGc 66140 Ian Mcreath
+ATUALIZADO: IGc 66327 Lilia Mascarenhas Sant Agostino
+ATUALIZADO: IGc 6640304 Fabiano do Nascimento Pupim
+ATUALIZADO: IGc 6660450 Monica Correa
+ATUALIZADO: IGc 6668312 Sandra Teresa Procel Guerra
+ATUALIZADO: IGc 6682614 Juliana do Nascimento Gomes
+ATUALIZADO: IGc 6755282 Gustavo Marcondes Evangelista Martins Prado
+ATUALIZADO: IGc 6798892 Dayane Gomes da Silva
+ATUALIZADO: IGc 6798908 Eduardo Profeta Ramos de Araujo
+ATUALIZADO: IGc 6798933 Suellyn da Silva Emerick Garcia
+ATUALIZADO: IGc 6799002 Simone Patricia da Silva
+ATUALIZADO: IGc 6799020 Paulo Rogerio Ferreira dos Santos
+ATUALIZADO: IGc 6799058 Diego Arruda Filgueira
+ATUALIZADO: IGc 6799131 Guilherme Locci Lopez
+ATUALIZADO: IGc 6799170 Bruna Ferri Torresi
+ATUALIZADO: IGc 6799187 Felipe Gustavo Brondani Rabelo
+ATUALIZADO: IGc 6799191 Augusto Nobre Gonçalves
+ATUALIZADO: IGc 6799207 Igor Eduardo Mascarenhas
+ATUALIZADO: IGc 6799211 Pedro Geraldi Angelini
+ATUALIZADO: IGc 6799211 Pedro Geraldi Angelini
+ATUALIZADO: IGc 6799228 Heloisa Improta Dias
+ATUALIZADO: IGc 6799232 Gabriel Ladeira Oses
+ATUALIZADO: IGc 6799253 Lucas Fernando Ferreira
+ATUALIZADO: IGc 6799260 Vinicius Dias Serrano
+ATUALIZADO: IGc 6799274 Gustavo Zanco Ramos
+ATUALIZADO: IGc 6799281 Natacha Melissa de Freitas
+ATUALIZADO: IGc 6799295 Francy Roxana Quiroz Valle
+ATUALIZADO: IGc 6799322 Gabriella Labate Frugis
+ATUALIZADO: IGc 6799336 Mayko Aleci Silva de Oliveira
+ATUALIZADO: IGc 6799340 Beatriz Yuri Benetti Silva
+ATUALIZADO: IGc 6799357 Vinicius Xavier Correa
+ATUALIZADO: IGc 6799382 Lucas Calabrez Gloeden Goncales
+ATUALIZADO: IGc 6799399 Arthur Endlein Correia
+ATUALIZADO: IGc 6799399 Arthur Endlein Correia
+ATUALIZADO: IGc 6799419 Natalia Naches Hilbert
+ATUALIZADO: IGc 6799444 Caio dos Santos Pereira
+ATUALIZADO: IGc 6799812 Lucas Carlucci Sato
+ATUALIZADO: IGc 6826861 Andre Luis de Moraes Penteado
+ATUALIZADO: IGc 6835235 Márcio Cardoso de Sena
+ATUALIZADO: IGc 6875592 Egysella dos Anjos Firmo
+ATUALIZADO: IGc 6880042 Reginaldo Nery da Silva
+ATUALIZADO: IGc 6880091 Ramon Barbosa de Paula
+ATUALIZADO: IGc 6880111 Bruna Cuccurullo Pioli
+ATUALIZADO: IGc 6886094 Milton Sils de Andrade Neto
+ATUALIZADO: IGc 6910170 Ana Paula de Jesus Rios
+ATUALIZADO: IGc 6914873 Emmanuel Donald Ngonge
+ATUALIZADO: IGc 6986488 Valeska Meirelles Sousa
+ATUALIZADO: IGc 6991435 Daniel de Stefano Menin
+ATUALIZADO: IGc 6995721 Kelen de Freitas Custódio Garcia
+ATUALIZADO: IGc 7015851 Ubiratan Cordeiro da Silva Lima
+ATUALIZADO: IGc 7028661 Adriana Gama do Nascimento
+ATUALIZADO: IGc 7036204 Luciene Carvalho Chalet Ferreira
+ATUALIZADO: IGc 7036333 Mariana Sampaio Miyashiro
+ATUALIZADO: IGc 7049417 Bruno de Assis Pereira dos Santos
+ATUALIZADO: IGc 7063827 Carlos Alexandre de Camargo Dias
+ATUALIZADO: IGc 7084887 Luis Gustavo Ferreira Viegas
+ATUALIZADO: IGc 7116572 Karine Gazineo de Assis
+ATUALIZADO: IGc 712071 Jeane Glaucia Santos Martucci Penoff
+ATUALIZADO: IGc 7133213 Vitor Sette Berto
+ATUALIZADO: IGc 7138351 Lorena Guering Alencar de Melo
+ATUALIZADO: IGc 7139859 Mariana de Matheus Marques dos Santos
+ATUALIZADO: IGc 7146916 Beatriz Hadler Boggiani
+ATUALIZADO: IGc 7158962 Vinicius Izidoro Barbosa
+ATUALIZADO: IGc 7158983 Mariza Fernanda da Silva
+ATUALIZADO: IGc 7159003 Sidney Carneiro de Mendonca Fernandes
+ATUALIZADO: IGc 7159024 Cristiane Labre Roberto Caraviello
+ATUALIZADO: IGc 7159070 Pedro Luis Cardoso da Cunha
+ATUALIZADO: IGc 7159091 Rinaldo Biscuola
+ATUALIZADO: IGc 7159149 Vilma Sayuri Chinen
+ATUALIZADO: IGc 7159181 Fernando Cardoso da Silva Santos
+ATUALIZADO: IGc 7159257 Gabriel Souza Cruz
+ATUALIZADO: IGc 7159261 Denner Christian Boscaratto
+ATUALIZADO: IGc 7159282 Felipe Elder da Silva Guilherme
+ATUALIZADO: IGc 7159299 Bruno Manias Trazzi
+ATUALIZADO: IGc 7159319 Marcio Shindy Fukamizu
+ATUALIZADO: IGc 7159323 Joao Paulo Monticeli
+ATUALIZADO: IGc 7159330 Eduardo Lopes Juliao
+ATUALIZADO: IGc 7159344 Andrei Stona de Almeida
+ATUALIZADO: IGc 7159365 Thiago de Freitas Toniolo
+ATUALIZADO: IGc 7159372 Pedro Moreira Cavalcante da Silva
+ATUALIZADO: IGc 7159386 Lucas Inglez dos Reis
+ATUALIZADO: IGc 7159406 Vinicius Lach Henrique
+ATUALIZADO: IGc 7159452 Bruno Iguma
+ATUALIZADO: IGc 7159469 Lorenzo Valenza Calabria
+ATUALIZADO: IGc 7159473 Mariane Borba de Lemos
+ATUALIZADO: IGc 7159494 Natasha Sarde Marteleto
+ATUALIZADO: IGc 7159514 Carlos Alberto Simoes dos Santos Junior
+ATUALIZADO: IGc 7159535 Alexandre Goto
+ATUALIZADO: IGc 7159556 Bruno Carlos Iatallese Ferreira Pinto
+ATUALIZADO: IGc 7159560 Vitor Patricio Cantarella
+ATUALIZADO: IGc 7159618 Fernando Prado Araujo
+ATUALIZADO: IGc 7159622 Lucas Martins Lino Aguiar dos Santos
+ATUALIZADO: IGc 7159639 Joao Marcos Siqueira Silva
+ATUALIZADO: IGc 7163381 Felipe Manica de Souza
+ATUALIZADO: IGc 7170598 Mariana Tomoe Yamashita Tawata
+ATUALIZADO: IGc 7178846 Lucas Rodrigues Schiavetti
+ATUALIZADO: IGc 7179058 Maria Thereza Akemi Guimarães Yogi
+ATUALIZADO: IGc 7180508 Tania de Oliveira Cruz
+ATUALIZADO: IGc 7186859 Levi de Zen Itepan
+ATUALIZADO: IGc 7190020 Victor Inada Cruz
+ATUALIZADO: IGc 719269 Lena Virginia Soares Monteiro
+ATUALIZADO: IGc 7201063 Rafaella Muraro
+ATUALIZADO: IGc 7220700 Carlos Alberto Siragusa Teixeira
+ATUALIZADO: IGc 7223530 Fabiola Ferreira
+ATUALIZADO: IGc 7224580 Paulo Ishiyama
+ATUALIZADO: IGc 7224750 Roger Keiti Kiyotani
+ATUALIZADO: IGc 7229800 Geane Carolina Gonçalves Cavalcante
+ATUALIZADO: IGc 72300 Rainer Aloys Schultz Guttler
+ATUALIZADO: IGc 7240814 Daniela Batista da Silva
+ATUALIZADO: IGc 7240821 Vania de Oliveira
+ATUALIZADO: IGc 7240860 Osmar Beliato Waideman Junior
+ATUALIZADO: IGc 7240877 Fernanda Costa Gonçalves Rodrigues
+ATUALIZADO: IGc 7240881 Heitor Gardenal Figueiredo
+ATUALIZADO: IGc 7240901 Adrianna Luiza Virmond
+ATUALIZADO: IGc 72446 Marcos Egydio da Silva
+ATUALIZADO: IGc 7248472 Nazaré da Silva Almeida
+ATUALIZADO: IGc 72596 Thomas Rich Fairchild
+ATUALIZADO: IGc 7260678 Cassandra Terra Barbosa
+ATUALIZADO: IGc 7278409 Stephani Somekawa
+ATUALIZADO: IGc 7278420 Leandro Martins Silva
+ATUALIZADO: IGc 7278434 Leticia Yume Sueoka Jarmendia
+ATUALIZADO: IGc 7278476 Julio Yasbek Reia
+ATUALIZADO: IGc 7278480 Anderson Pazin Toledo
+ATUALIZADO: IGc 7278500 Lucas Lima Scaglia
+ATUALIZADO: IGc 7305764 Vicente Albino Manjate
+ATUALIZADO: IGc 7307596 Suzana Aparecida Matos da Silva
+ATUALIZADO: IGc 7314121 Claudia do Couto Tokashiki
+ATUALIZADO: IGc 7338333 Israel Martins da Silva Pimentel
+ATUALIZADO: IGc 7338375 João Fernando Ferraz de Oliveira
+ATUALIZADO: IGc 7338552 Manoel Cicero Pereira da Silva
+ATUALIZADO: IGc 7338611 Marina Beyer Taguchi
+ATUALIZADO: IGc 7350309 Angela Mitie Nishimura
+ATUALIZADO: IGc 7357140 Jordana Acuña Zampelli
+ATUALIZADO: IGc 7408192 Carla Palomino Tinoco
+ATUALIZADO: IGc 74257 Colombo Celso Gaeta Tassinari
+ATUALIZADO: IGc 747664 Gianna Maria Garda
+ATUALIZADO: IGc 7503192 Debora Katia de Vargas
+ATUALIZADO: IGc 75129 Silvio Roberto Farias Vlach
+ATUALIZADO: IGc 751777 Fabio Ramos Dias de Andrade
+ATUALIZADO: IGc 75345 Jose Roberto Canuto
+ATUALIZADO: IGc 75474 Mario da Costa Campos Neto
+ATUALIZADO: IGc 7569693 Bruno Vieira Ribeiro
+ATUALIZADO: IGc 7579433 Alfredo Toshio Suzuki
+ATUALIZADO: IGc 7579433 Alfredo Toshio Suzuki
+ATUALIZADO: IGc 7579461 Thomas Gervasio Coelho
+ATUALIZADO: IGc 7579502 Luana Barbosa Damaceno
+ATUALIZADO: IGc 7579603 Fabio Luiz Lineu Pileggi
+ATUALIZADO: IGc 7579624 Thomas Kenji Akabane
+ATUALIZADO: IGc 7579631 Felipe de Queiroz Freire
+ATUALIZADO: IGc 7579645 Willy Takasawa Fernandes
+ATUALIZADO: IGc 7579652 Geovane Moreira Roque
+ATUALIZADO: IGc 7579666 Igor Haruiti Hirayama
+ATUALIZADO: IGc 7579687 Beatriz Pontes Araujo
+ATUALIZADO: IGc 7579691 Felipe Camargo de Almeida
+ATUALIZADO: IGc 7579707 Jessica Maria de Lima
+ATUALIZADO: IGc 7579711 Renata Cagliarani
+ATUALIZADO: IGc 7579728 Mikaella Balis
+ATUALIZADO: IGc 7579732 Lucas Martins Nogueira de Castilho
+ATUALIZADO: IGc 7579749 Ana Beatriz Siqueira Nicolau
+ATUALIZADO: IGc 7579753 Luiz Humberto Borges Junior
+ATUALIZADO: IGc 7579774 Tiago Kenzo Takeuti
+ATUALIZADO: IGc 7579795 Lucas Henrique de Carvalho
+ATUALIZADO: IGc 7579801 Felipe Cunha Bichinho
+ATUALIZADO: IGc 7579815 Felipe Queiroz Correa e Castro
+ATUALIZADO: IGc 7579822 Tiago Fabrin Manzolli
+ATUALIZADO: IGc 7579840 Ana Carolina Santos Goncalves
+ATUALIZADO: IGc 7579861 Jeannine Morcos
+ATUALIZADO: IGc 7579878 Victor Amadeus Tropiano Alem
+ATUALIZADO: IGc 7579899 Igor Fernando Toledo de Oliveira
+ATUALIZADO: IGc 7579919 Higor Tadeu da Silva
+ATUALIZADO: IGc 7579972 Guilherme Brincas Albano
+ATUALIZADO: IGc 7599446 Rafael Kmohan Paulino Patricio
+ATUALIZADO: IGc 7618613 Ciro de Andrade Neto
+ATUALIZADO: IGc 7621916 Narubia Goncalves
+ATUALIZADO: IGc 7641078 Nery Contti Neto
+ATUALIZADO: IGc 7650270 Edna Goncalves da Costa
+ATUALIZADO: IGc 7658473 Veronica Santos de Oliveira
+ATUALIZADO: IGc 7658500 Lucas Batista Cervi
+ATUALIZADO: IGc 7658650 Bruno Henrique Gramulha Pires
+ATUALIZADO: IGc 7658705 Joao Victor Fernandes Dreys
+ATUALIZADO: IGc 7658712 Luiz Gustavo Pereira
+ATUALIZADO: IGc 7658726 Ludmila Maria Fonseca Teixeira
+ATUALIZADO: IGc 7659050 Jacqueline de Cassia de Oliveira
+ATUALIZADO: IGc 7659161 Nathalia Guimarães Tanbellini
+ATUALIZADO: IGc 7666131 Vinicius Berti Girotto
+ATUALIZADO: IGc 7669600 Victor Cezar Soficier Badaro
+ATUALIZADO: IGc 7669670 Luana Pereira Costa de Morais Soares
+ATUALIZADO: IGc 7677036 Samuel Andrade Abdala
+ATUALIZADO: IGc 7677036 Samuel Andrade Abdala
+ATUALIZADO: IGc 76795 Johann Hans Daniel Schorscher
+ATUALIZADO: IGc 7691745 Paulo Henrique Ferreira Galvão
+ATUALIZADO: IGc 7693010 Sabrina da Cunha Silva
+ATUALIZADO: IGc 7697230 Felipe Fernando Ferreira Duarte
+ATUALIZADO: IGc 7697244 Carolina Germana de Sousa Soares Doswaldo
+ATUALIZADO: IGc 7697251 Marianna Gulman Nassif Caran
+ATUALIZADO: IGc 7697286 Daniel Rachid Barbosa da Silva
+ATUALIZADO: IGc 7706010 Rosana Gandini
+ATUALIZADO: IGc 7709138 Michele Diniz dos Santos
+ATUALIZADO: IGc 7711701 Bianca Riccio Nieto Lacerda
+ATUALIZADO: IGc 7717291 Andreia Raquel Coelho Beleque
+ATUALIZADO: IGc 7730400 Maurício Liska Borba
+ATUALIZADO: IGc 7731287 Camilo Bustamante Londoño
+ATUALIZADO: IGc 7735681 Eduardo Jorge Henrique Crepaldi Bergamaschi Pinto
+ATUALIZADO: IGc 7749085 Eliane Jesus de Maria
+ATUALIZADO: IGc 7777820 Michele Cristina Fernandes
+ATUALIZADO: IGc 7780268 Filomena Beatriz Aliberti
+ATUALIZADO: IGc 7788541 Jacopo Seccatore
+ATUALIZADO: IGc 7808132 Natali da Silva Barbosa
+ATUALIZADO: IGc 7810858 Aline Campello Fanti
+ATUALIZADO: IGc 7811136 Edilce do Amaral Albrez
+ATUALIZADO: IGc 7816281 Patricio Rodrigo Montecinos Muñoz
+ATUALIZADO: IGc 7824401 Adriano Aparecido Carneiro da Silva
+ATUALIZADO: IGc 7834761 Elaine Sueli da Silva Pinto
+ATUALIZADO: IGc 7927632 Jean Pierre Batista da Silva
+ATUALIZADO: IGc 7974924 Lais Pelizari Fontana
+ATUALIZADO: IGc 7982600 Leticia Alves Oliveira Pereira
+ATUALIZADO: IGc 7987543 Guilherme de Oliveira Iasco Pereira
+ATUALIZADO: IGc 7992744 Giancarlo Trivellato
+ATUALIZADO: IGc 7992772 Thais Canaver Leal
+ATUALIZADO: IGc 7992786 Rafaela Pastoura Santos
+ATUALIZADO: IGc 7992790 Marina Flores Autiero
+ATUALIZADO: IGc 7992806 Veronica Alves Serafim
+ATUALIZADO: IGc 7992810 Tarsilla Lopes de Souza
+ATUALIZADO: IGc 7992827 Carlos Cesar Narciso Soares
+ATUALIZADO: IGc 7992831 Stefany Mancini
+ATUALIZADO: IGc 7992848 Vania Liye de Oliveira
+ATUALIZADO: IGc 7992852 Victor Hugo Ribeiro Santana Silva
+ATUALIZADO: IGc 7992869 Viviane Fernandes Granado
+ATUALIZADO: IGc 7993001 Maira Antunes Alves
+ATUALIZADO: IGc 7993018 Jorge Tochio Natsumi Junior
+ATUALIZADO: IGc 7993022 Debora Silva Rodrigues
+ATUALIZADO: IGc 7993043 Everton de Lima Batista Silva
+ATUALIZADO: IGc 7993050 Luiz Gustavo Ribeiro da Silva
+ATUALIZADO: IGc 7993064 Caue Moara Goncalves dos Santos
+ATUALIZADO: IGc 7993071 Jamine Hamada Takahashi
+ATUALIZADO: IGc 7993085 João Pedro de Lia Catelan Sabino
+ATUALIZADO: IGc 7993092 Fabio Sartorio
+ATUALIZADO: IGc 7993126 Julio Cauhy Rodrigues
+ATUALIZADO: IGc 7993130 Erick Correia Mota
+ATUALIZADO: IGc 7993147 Aline Ansara Stefani
+ATUALIZADO: IGc 7993151 Marco Timich
+ATUALIZADO: IGc 7993168 Ricardo Negoro
+ATUALIZADO: IGc 7993172 Leticia Bastos Evers de Sousa
+ATUALIZADO: IGc 7993189 Anderson Pires Rodrigues
+ATUALIZADO: IGc 7993193 Wesley Ferreira de Souza
+ATUALIZADO: IGc 7993209 Naomi Kikuchi Bernstein
+ATUALIZADO: IGc 7993213 Marcos Akira Nakacima Ueda
+ATUALIZADO: IGc 7993220 Arthur Hideo Pereira Toyoshima
+ATUALIZADO: IGc 7993241 Cesar Miyata
+ATUALIZADO: IGc 7993255 João Augusto de Souza Garbelim
+ATUALIZADO: IGc 7993262 Giselle Boschi
+ATUALIZADO: IGc 7993276 Bruno Cirilo Consentino
+ATUALIZADO: IGc 7993297 Jorge Correia Leite Arthuzzi
+ATUALIZADO: IGc 7993300 Rosane da Silva Araujo
+ATUALIZADO: IGc 7993317 Jose Guilherme dos Santos
+ATUALIZADO: IGc 7993321 Lucas Henrique dos Santos
+ATUALIZADO: IGc 7993342 Gabriela Bazilli Montenegro
+ATUALIZADO: IGc 7993359 Paulo Rafael de Carvalho
+ATUALIZADO: IGc 7993363 Marcelo Garcia Pereira de Camargo
+ATUALIZADO: IGc 7993370 Vitor Ariza Malagutti
+ATUALIZADO: IGc 7993391 Carolina Nogueira Mafra
+ATUALIZADO: IGc 8003860 Carolina da Silva Paes
+ATUALIZADO: IGc 8011942 Bruna Luiza Prinet de Morais
+ATUALIZADO: IGc 8028433 Gustavo Moura da Silva
+ATUALIZADO: IGc 80320 Ciro Teixeira Correia
+ATUALIZADO: IGc 8032438 Thalita Araujo Scomparin
+ATUALIZADO: IGc 8033061 Fernanda Oliveira Piotto
+ATUALIZADO: IGc 80511 Ivo Karmann
+ATUALIZADO: IGc 8067830 Carolina Fernanda dos Santos
+ATUALIZADO: IGc 8067890 Ana Lu Almeida Gonzaga
+ATUALIZADO: IGc 8067910 Antonio Carlos Pereira Santos Junior
+ATUALIZADO: IGc 8067931 Ricardo Mendes Shyu
+ATUALIZADO: IGc 8067948 Edjane Angelo de Barros
+ATUALIZADO: IGc 8067969 Felipe Ribeiro Machado
+ATUALIZADO: IGc 8067980 Talita de Souza
+ATUALIZADO: IGc 8068035 Henrique Seiji Oyama
+ATUALIZADO: IGc 8068042 Gabriel Souza Rangel
+ATUALIZADO: IGc 8083172 Lucas Bassan
+ATUALIZADO: IGc 8102738 Soraya Damasceno Sousa
+ATUALIZADO: IGc 8113737 Ana Carolina Sartori
+ATUALIZADO: IGc 8124886 Jackline Vicente de Almeida
+ATUALIZADO: IGc 8124890 Diego Thadeu Nunes do Valle
+ATUALIZADO: IGc 8124910 Sindclei Oliveira Freire
+ATUALIZADO: IGc 8124931 Silvia Natalie Vieira da Silva
+ATUALIZADO: IGc 8124948 Gabriela Silva de Farias Betini
+ATUALIZADO: IGc 8124952 Lys Veronica Santos Lentini Plantullo
+ATUALIZADO: IGc 8124969 Lucas Agostinho Milani
+ATUALIZADO: IGc 819910 Joao Batista de Sousa
+ATUALIZADO: IGc 82103 Gergely Andres Julio Szabo
+ATUALIZADO: IGc 8244431 Renata Aparecida Lima de Paula
+ATUALIZADO: IGc 828261 Gustavo Correa de Abreu
+ATUALIZADO: IGc 8284134 Veronica Marcela Ramirez Ruiz
+ATUALIZADO: IGc 83942 Daniel Atencio
+ATUALIZADO: IGc 8407658 Ezequiel José Estremina Carneiro Brandão Ferreira
+ATUALIZADO: IGc 843265 Ideval Souza Costa
+ATUALIZADO: IGc 8461020 Helder de Moraes Ferreira
+ATUALIZADO: IGc 8465549 Guillaume Francis Bertrand
+ATUALIZADO: IGc 8471932 Renata Roana Oliveira
+ATUALIZADO: IGc 8471971 Roger Wallace Gouveia de Melo
+ATUALIZADO: IGc 8486758 Angela Suelem Rocha Veloso
+ATUALIZADO: IGc 8500180 Luciana Nobre Cezar
+ATUALIZADO: IGc 8516584 Andre Victor Santos Eigenmann
+ATUALIZADO: IGc 8537813 Felipe Palma Cardozo Garcia
+ATUALIZADO: IGc 8537834 Giovanni Mayro Franceschelli
+ATUALIZADO: IGc 8537841 Talita Rainha Aparecida do Bom Jesus de Pirapora A
+ATUALIZADO: IGc 8537855 Kelly Tartas Olaia
+ATUALIZADO: IGc 8537876 Caio Fernandes Pereira Santos
+ATUALIZADO: IGc 8537942 Anderson Alex Leite Gravata
+ATUALIZADO: IGc 8537970 Juliano de Albuquerque Angarten
+ATUALIZADO: IGc 8538133 Vinicius Alves Ferreira Pires
+ATUALIZADO: IGc 8538140 Henrique Barbosa Jardim
+ATUALIZADO: IGc 8538154 Caroline Campos Soares
+ATUALIZADO: IGc 8538161 Diego Domingos da Silva
+ATUALIZADO: IGc 8538175 Gabriel Zacharias Sugiura
+ATUALIZADO: IGc 8538182 Julio Ferradans Mato Neves Mirim
+ATUALIZADO: IGc 8538202 Alessandro Velasquez Pezzin
+ATUALIZADO: IGc 8538220 Rafael Santos Furtado
+ATUALIZADO: IGc 8538237 Monique Aristides Azevedo
+ATUALIZADO: IGc 8538241 Ianny da Silva Vieira
+ATUALIZADO: IGc 8538258 Mario Rubens Gomes Santos
+ATUALIZADO: IGc 8538262 Yuri Kuivjogi Fernandes
+ATUALIZADO: IGc 8538279 Mariana Ramos Ciotta
+ATUALIZADO: IGc 8538283 Luigi Carboni
+ATUALIZADO: IGc 8538303 Carina Mendes Placona
+ATUALIZADO: IGc 8538310 Gabriel Monteiro Gutierrez
+ATUALIZADO: IGc 8538324 Gabriel Vanderlinde Damasio
+ATUALIZADO: IGc 8538331 Lourenco Donnini Zanutin
+ATUALIZADO: IGc 8538345 Victor Brugnera Camassari de Gonzaga
+ATUALIZADO: IGc 8538352 Luiz Guilherme Gomes Fregona
+ATUALIZADO: IGc 8538366 Camila Gimenez Bortolotti
+ATUALIZADO: IGc 8538370 Elton Barbosa Gomes
+ATUALIZADO: IGc 8538391 Paulo Eiji Koki
+ATUALIZADO: IGc 8538411 Mariana Oliveira Barbosa
+ATUALIZADO: IGc 8538428 Raphael Martin Salaroli
+ATUALIZADO: IGc 8538449 Marcelo Moura dos Santos Junior
+ATUALIZADO: IGc 8538453 Saulo Vieira da Silva Filho
+ATUALIZADO: IGc 8538460 Maria Rogieri Pelissari
+ATUALIZADO: IGc 8538481 Joao Mariante Santana
+ATUALIZADO: IGc 8538515 Ivan Galvao Martos
+ATUALIZADO: IGc 8538522 Bruna da Silva Ricardo
+ATUALIZADO: IGc 8538557 Angela Isaura Santos Costa
+ATUALIZADO: IGc 8556593 Rayssa Martins Pimentel
+ATUALIZADO: IGc 8577930 Julio Cesar Alves
+ATUALIZADO: IGc 8595812 Thiago Gomes Rios
+ATUALIZADO: IGc 8603751 Luanna Shimada Siqueira
+ATUALIZADO: IGc 8603765 Francesco Barale
+ATUALIZADO: IGc 8603772 Karen Vieira Santos
+ATUALIZADO: IGc 8603786 Sidney Ferreira Souza
+ATUALIZADO: IGc 8603806 Claudio Roma
+ATUALIZADO: IGc 8603827 Naiara Lobato da Silva
+ATUALIZADO: IGc 8603880 Guilherme Barroco Breno
+ATUALIZADO: IGc 8603894 Fabio Pontuschka Goncalves
+ATUALIZADO: IGc 8603900 Lais de Oliveira Teixeira
+ATUALIZADO: IGc 8603914 Amanda Martins Rodrigues
+ATUALIZADO: IGc 8603921 Igor Felipe de Souza Barboza
+ATUALIZADO: IGc 8606917 Christian Lariguet Taques Bittencourt
+ATUALIZADO: IGc 8626698 Lucas Correa Tonon Dalmeida
+ATUALIZADO: IGc 8637381 Santiago Diaz Lopez
+ATUALIZADO: IGc 8642672 Jaqueline Quirino Ferreira
+ATUALIZADO: IGc 8642686 Guilherme Navarro Diogo Tavares
+ATUALIZADO: IGc 864283 Izabel Ramos Ruiz
+ATUALIZADO: IGc 8655774 Mariana Bernardino Luiz
+ATUALIZADO: IGc 8658606 Ivan Pantaleoni Campos Menezes
+ATUALIZADO: IGc 8658610 Walter Kenji Assada
+ATUALIZADO: IGc 8658627 Caio Cesar de Alencar Jara
+ATUALIZADO: IGc 8658673 Alexandre Vicente Marques de Souza
+ATUALIZADO: IGc 8658680 Celia Oliveira das Neves
+ATUALIZADO: IGc 8670184 Luciano Leite Alves da Silva
+ATUALIZADO: IGc 8670191 Jennifer de Sousa Silva
+ATUALIZADO: IGc 8676214 Jonathan Pereira de Oliveira
+ATUALIZADO: IGc 8680369 Beatriz Dias de Araujo
+ATUALIZADO: IGc 8683661 Cristhian Camilo Guacaneme Mora
+ATUALIZADO: IGc 8688979 Matteo Roverato
+ATUALIZADO: IGc 8689330 Bruno Becker Kerber
+ATUALIZADO: IGc 8703210 Thays Desiree Mineli
+ATUALIZADO: IGc 8723290 Daniel Alejandro Garcia Chinchilla
+ATUALIZADO: IGc 8736732 Luciano Alessandretti
+ATUALIZADO: IGc 8739245 Maria Paula Ramos Clavijo
+ATUALIZADO: IGc 875299 Isaac Jamil Sayeg
+ATUALIZADO: IGc 8768492 Valentina Espinel Arias
+ATUALIZADO: IGc 8770133 Aniceto Elcidio Alves Macie
+ATUALIZADO: IGc 8774158 Laura Catalina Román García
+ATUALIZADO: IGc 8774436 Eduardo Rosa da Silva
+ATUALIZADO: IGc 8774721 Yorleidy Yohana Villafañez Cardona
+ATUALIZADO: IGc 87748 Benjamim Bley de Brito Neves
+ATUALIZADO: IGc 8778826 Diego Felipe Gómez Gutierrez
+ATUALIZADO: IGc 8779719 Vitor Ribeiro de Sá
+ATUALIZADO: IGc 8782898 Rudney de Almeida Santos
+ATUALIZADO: IGc 8800320 Julia Goncalves Silva
+ATUALIZADO: IGc 8820211 Nayara Alves Coelho da Silva
+ATUALIZADO: IGc 8827365 Karlla Emmanuelle Cunha Arruda
+ATUALIZADO: IGc 8837300 Pedro Carlos Strikis
+ATUALIZADO: IGc 8942405 Gustavo Carbonari Pinheiro
+ATUALIZADO: IGc 8942426 Lilian Hitomi Konishi
+ATUALIZADO: IGc 8942430 Mariana Cavalcanti Rego
+ATUALIZADO: IGc 8942493 Maria Filomena Grof de Almeida
+ATUALIZADO: IGc 8942513 Erika Lethicia Garcia Severino
+ATUALIZADO: IGc 8942541 Vinicius de Miranda Gattini de Oliveira
+ATUALIZADO: IGc 8942600 Gabriela Ferreira Mesquita
+ATUALIZADO: IGc 8942621 Fernanda Alves
+ATUALIZADO: IGc 8942691 Lucas Ferreira de Brito
+ATUALIZADO: IGc 8942725 Danilo Pineschi
+ATUALIZADO: IGc 8942746 Yuri Matheus Minutella Machado
+ATUALIZADO: IGc 8942750 Aghata Zarelli Viana
+ATUALIZADO: IGc 8942767 Marina Quaresma Fernandes
+ATUALIZADO: IGc 8942771 Isabella Zarattini Brandao
+ATUALIZADO: IGc 8942792 Júlia Taciro Mandacarú Guerra
+ATUALIZADO: IGc 8942808 Ingrid Souto Maia Lamoso
+ATUALIZADO: IGc 8942812 Ligia Teixeira Sato
+ATUALIZADO: IGc 8942829 Rodrigo Moreira Baraldini
+ATUALIZADO: IGc 8942833 Bruna de Freitas Santos
+ATUALIZADO: IGc 8942840 Juliana Alves Viana Aguiar
+ATUALIZADO: IGc 8942854 Eduardo Henrique Celestino
+ATUALIZADO: IGc 8942861 Otavio Barbosa Ferreira
+ATUALIZADO: IGc 8942882 Gustavo Henrique Tito da Luz Anezio da Silva
+ATUALIZADO: IGc 8942896 Marcela Martins
+ATUALIZADO: IGc 8942902 Vinicius Augusto do Nascimento
+ATUALIZADO: IGc 8942916 Bianca Maia Nardelli Escobosa
+ATUALIZADO: IGc 8942920 Lucas dos Santos Carvalho Viana
+ATUALIZADO: IGc 8942937 Victor Augusto Costa Monteiro
+ATUALIZADO: IGc 8942941 Bruna Lopes Cenatti
+ATUALIZADO: IGc 8942958 Guilherme Ferrari Leo
+ATUALIZADO: IGc 8942979 Fernanda Aparecida Ferretti
+ATUALIZADO: IGc 8942983 Davi Azevedo Jeremias
+ATUALIZADO: IGc 8943003 Leonardo Boranga dos Santos
+ATUALIZADO: IGc 8943010 Joao Pedro Benassi
+ATUALIZADO: IGc 8943024 Thales Pescarini
+ATUALIZADO: IGc 8943045 Pedro Paoli Guedes de Camargo
+ATUALIZADO: IGc 8943052 Gabriel da Silva Costa
+ATUALIZADO: IGc 8943066 Kauan Henrique Queiroz Franco
+ATUALIZADO: IGc 8943070 Rafael Morales Nardini
+ATUALIZADO: IGc 8943087 Rodrigo Oliveira de Almeida
+ATUALIZADO: IGc 8943091 Carlos Henrique Gil Marques
+ATUALIZADO: IGc 8943132 Luis Felipe Batelochi
+ATUALIZADO: IGc 8943149 Bruno Antunes Zampaulo
+ATUALIZADO: IGc 8982518 Joao Pedro Ribeiro de Melo
+ATUALIZADO: IGc 8982564 Daniella Gusmao Baroni
+ATUALIZADO: IGc 9009983 Martin Torres Castro
+ATUALIZADO: IGc 9010004 Lais da Silva Souza
+ATUALIZADO: IGc 9010011 Rosimary de Araujo
+ATUALIZADO: IGc 9010046 Michelle Branco Barbosa da Silva
+ATUALIZADO: IGc 9010067 Keinne Thuani Vieira Santos
+ATUALIZADO: IGc 9010071 Natalia Cristina da Silva Chagas
+ATUALIZADO: IGc 9010088 Edilma Angelica do Nascimento Lins
+ATUALIZADO: IGc 9010092 Karen dos Reis Bertolini
+ATUALIZADO: IGc 9010133 Lorraine Silva Pinto Mendes
+ATUALIZADO: IGc 9010161 Elis Miguele de Sá
+ATUALIZADO: IGc 9010175 Jessica Dias de Souza
+ATUALIZADO: IGc 9010182 Marilia da Rocha Peloso
+ATUALIZADO: IGc 9021174 William de Castro
+ATUALIZADO: IGc 9024312 João Paulo Chiste Costa
+ATUALIZADO: IGc 90245 Jorge Silva Bettencourt
+ATUALIZADO: IGc 9027570 Iuri Bomtempo Retamal
+ATUALIZADO: IGc 9039851 Tom Dias Motta Morita
+ATUALIZADO: IGc 9044242 Tommaso Giovanardi
+ATUALIZADO: IGc 9044318 Stefano Crivellari
+ATUALIZADO: IGc 9054233 Celso Bairros Varella Neto
+ATUALIZADO: IGc 9066636 Rafael Moreira de Almeida Relvas
+ATUALIZADO: IGc 9066657 Murilo Tadeu Alves Simoes
+ATUALIZADO: IGc 9066661 Alexandre Oliveira Marques
+ATUALIZADO: IGc 9066678 Thaiz Lima de Oliveira
+ATUALIZADO: IGc 90694 Claudio Riccomini
+ATUALIZADO: IGc 9072932 Adriana Yukie Tomita Nakagama
+ATUALIZADO: IGc 9075247 Hamde Rodrigues El Hage
+ATUALIZADO: IGc 9083006 Eliezer Ian Cerezer Rios
+ATUALIZADO: IGc 9111000 Carolina Penteado Natividade Moreto
+ATUALIZADO: IGc 9152156 Geovana Leite Geraldo
+ATUALIZADO: IGc 915463 Ginaldo Ademar da Cruz Campanha
+ATUALIZADO: IGc 9168143 Andrés Fabián Salazar Naranjo
+ATUALIZADO: IGc 9168716 Johan Santiago Torres Corredor
+ATUALIZADO: IGc 9168981 Marcela Maracaípe Braga
+ATUALIZADO: IGc 9169512 Silvandira dos Santos Góes Pereira de Jesus
+ATUALIZADO: IGc 9170021 Janine Sofia Negrão Laborda
+ATUALIZADO: IGc 9175005 Andrea Kern
+ATUALIZADO: IGc 9178930 Yuri Fernando Parra Castilho
+ATUALIZADO: IGc 918296 Gaston Eduardo Enrich Rojas
+ATUALIZADO: IGc 9188330 Letícia Astolfi de Oliveira
+ATUALIZADO: IGc 9201546 Marcelo Garcia Galé
+ATUALIZADO: IGc 9202485 Allan Silas Calux
+ATUALIZADO: IGc 9230917 Rojo Fabián Yesenia Yvonne
+ATUALIZADO: IGc 9233903 Jonathan Charles Guido Barre Ardizzi
+ATUALIZADO: IGc 9234481 Joana Isabel Santiago Ferreira
+ATUALIZADO: IGc 9246797 Erilio Santos Soares
+ATUALIZADO: IGc 9246863 Caroline Costa Nunes da Silva
+ATUALIZADO: IGc 9256732 Geraldo Mangelo de Avellar
+ATUALIZADO: IGc 9260716 Ademilson Soares da Silva
+ATUALIZADO: IGc 9264832 Eliana Mazzucato
+ATUALIZADO: IGc 9264849 Karyna D''Onofre Neves
+ATUALIZADO: IGc 9264853 Roberto Delphim Pereira da Costa Hammerle
+ATUALIZADO: IGc 9264860 Cleber Quidute Clemente Diniz
+ATUALIZADO: IGc 9264874 Daniel do Valle Lemos Santos
+ATUALIZADO: IGc 9299765 Thiago Jose de Oliveira
+ATUALIZADO: IGc 9299786 Agnaldo Goncalves de Almeida Junior
+ATUALIZADO: IGc 9299806 Edvangela Carolino das Neves
+ATUALIZADO: IGc 9299827 Tamara Santana dos Santos
+ATUALIZADO: IGc 9299831 Marco Antonio de Lucca
+ATUALIZADO: IGc 9299852 Gabriel Alves Souza
+ATUALIZADO: IGc 9299873 Samuel Rodrigues Villela
+ATUALIZADO: IGc 9299914 Caio Rodrigues Barbosa
+ATUALIZADO: IGc 9299935 Gabriel Ribeiro Santana Silva
+ATUALIZADO: IGc 9299960 Joao Vitor de Sa Vaccari
+ATUALIZADO: IGc 9299981 Leonardo Alvim Barros
+ATUALIZADO: IGc 9299998 Gustavo Scuracchio Rossi
+ATUALIZADO: IGc 9300025 Paulo Henrique da Silva
+ATUALIZADO: IGc 9300032 Clara Beatriz Balbinot Korobinski
+ATUALIZADO: IGc 9300046 Fernanda Shouga Mendes
+ATUALIZADO: IGc 9300050 Guilherme Rodrigues de Souza
+ATUALIZADO: IGc 9300067 Felipe Cardoso Rodrigues
+ATUALIZADO: IGc 9300071 Ana Paula Agostinelli dos Santos
+ATUALIZADO: IGc 9300088 Davi Yan Schmidt Cunha
+ATUALIZADO: IGc 9300092 Pedro Vargas Lima
+ATUALIZADO: IGc 9300108 Luís Guilherme Monteiro Melo Mariano
+ATUALIZADO: IGc 9300112 Heitor Rocha Tsuji Cunha
+ATUALIZADO: IGc 9300133 Vitor Santos Nunes
+ATUALIZADO: IGc 9300140 Ana Luisa de Sena Porto
+ATUALIZADO: IGc 9300154 Ana Luisa Magalhães de Souza Carreiro
+ATUALIZADO: IGc 9300161 Alex do Carmo da Silva
+ATUALIZADO: IGc 9300175 Milena Torres Lopes
+ATUALIZADO: IGc 9300182 Leonardo Meneghetti Sani
+ATUALIZADO: IGc 9300196 Joao Pedro Silva Pereira
+ATUALIZADO: IGc 9300202 Raquel Pereira Ires
+ATUALIZADO: IGc 9300216 Caio Fernando Bianchi
+ATUALIZADO: IGc 9300220 Rodrigo Oliveira Okasaki de Freitas
+ATUALIZADO: IGc 9300237 Thaina Takigami Yamada
+ATUALIZADO: IGc 9300258 Leonardo Martinez de Paschoal
+ATUALIZADO: IGc 9300262 Felipe Falco de Franca
+ATUALIZADO: IGc 9300303 Daniel Dias Moreti
+ATUALIZADO: IGc 9300352 Cezar Augusto Parladore
+ATUALIZADO: IGc 9300366 Alexandre Pimont Penha
+ATUALIZADO: IGc 9300370 Mikhael Guardia Borghieri
+ATUALIZADO: IGc 9300391 Rafael Moreti Arantes Vieira
+ATUALIZADO: IGc 932643 Kei Sato
+ATUALIZADO: IGc 93269 Marly Babinski
+ATUALIZADO: IGc 9365911 Arthur Lima Leite
+ATUALIZADO: IGc 9365928 Camila Perin Malaghini
+ATUALIZADO: IGc 9365932 Gustavo dos Santos Sardinha
+ATUALIZADO: IGc 9365949 Felipe Ribas Bella
+ATUALIZADO: IGc 9365953 Marcela Trindade Mendes
+ATUALIZADO: IGc 9392297 Filipe Constantino dos Santos
+ATUALIZADO: IGc 9392300 Jose Vitor Carignato David
+ATUALIZADO: IGc 9398115 Adalberto Santos Maciel
+ATUALIZADO: IGc 9401320 Gloria da Conceição Cardoso
+ATUALIZADO: IGc 941038 Jorge Ramon Peñaranda Salgado
+ATUALIZADO: IGc 9413744 Pauline Sabina Kavali
+ATUALIZADO: IGc 9421483 Dorília Ferreira da Cunha
+ATUALIZADO: IGc 9425017 Paula Suelem Santos de Araujo
+ATUALIZADO: IGc 9425021 Deborah Cristina de Alencar
+ATUALIZADO: IGc 9425038 Renato Beneduci Assad
+ATUALIZADO: IGc 9425042 Lucas Elias Gattas
+ATUALIZADO: IGc 9425070 Jose Felipe Batista da Silva
+ATUALIZADO: IGc 9425091 Gabriella Augusta Nascimento da Silva
+ATUALIZADO: IGc 9425104 Laura Pereira Balaquer
+ATUALIZADO: IGc 9425125 Fabio Carvalho de Souza
+ATUALIZADO: IGc 9425150 Victor Augusto da Silveira
+ATUALIZADO: IGc 9425167 Victor Kehdi Frutuoso
+ATUALIZADO: IGc 9436211 Carolina Ferreira dos Santos
+ATUALIZADO: IGc 9436228 Michelle de Sousa Nascimento
+ATUALIZADO: IGc 9436232 Guilherme de Souza Amaral
+ATUALIZADO: IGc 9436249 Nancy Jesus dos Santos
+ATUALIZADO: IGc 9446870 Santiago León Vasco
+ATUALIZADO: IGc 9453923 Juan Sebastian Echeverri Salamanca
+ATUALIZADO: IGc 9454393 Camilla Santos Chrismann
+ATUALIZADO: IGc 9455605 Maria Isabel Giraldo Arroyave
+ATUALIZADO: IGc 9481060 Luciana Freitas de Oliveira França
+ATUALIZADO: IGc 949586 Flavio Machado de Souza Carvalho
+ATUALIZADO: IGc 95424 Fabio Taioli
+ATUALIZADO: IGc 986845 Fernando Bononi Bergamini
+ATUALIZADO: IGc 999464 Luiz Eduardo Anelli
+
+Consistencia Intranet UNIDADE 44 IGc     Instituto de Geociências
+INSERIDO: IGc 2099471 Joao Batista de Matos
+INSERIDO: IGc 2198440 Lilian de Souza Taniguchi
+INSERIDO: IGc 2917483 Romulo Machado
+INSERIDO: IGc 2959535 Carolina Rodrigues de Araujo Correa
+INSERIDO: IGc 3467820 Michelle Mayumi Tizuka
+INSERIDO: IGc 5385124 Carlos Francisco Salmena Duarte
+INSERIDO: IGc 5451232 Rafael Sasaoka Shinoda
+INSERIDO: IGc 5637802 Renan Covre Mulla
+INSERIDO: IGc 5702902 Milene Fornari
+INSERIDO: IGc 5745403 Rafaela Machado Gengo
