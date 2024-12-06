@@ -1,21 +1,21 @@
-
 #!/bin/bash
 
 # Este script atualiza as instalações wordpress automaticamente
 
 # Arquivo de log com a data no nome
-current_date=$(date +"%Y%m%d") // Data atual no formato YYYYMMDD
+current_date=$(date +"%Y%m%d") 
 log_file="/sites-usp/scripts/logs/update_wordpress/update_wordpress_$current_date.log"
 
 # Basta adicionar a pasta do site na relação abaixo
 
 # Array de diretórios que contêm instalações do WordPress
 declare -a directories=(
+    "/sites-usp/dev2/www/wordpress"
     "/sites-usp/6sbpg/www"
     "/sites-usp/areias/www"
     "/sites-usp/colecoes/www"
     "/sites-usp/didatico"
-#     "/sites-usp/game/www"
+    "/sites-usp/game/www"
     "/sites-usp/geohereditas/www"
     "/sites-usp/geolit"
     "/sites-usp/legal/www"
@@ -29,6 +29,7 @@ declare -a directories=(
     "/sites-usp/rtopbrgeociencias/www"
     "/sites-usp/transamazondrilling/www"
     "/sites-usp/wims/www"
+    "/sites-usp/docentes/www"
     "/sites-usp/nwldw2025"
     "/sites-usp/csts"
 )
@@ -62,6 +63,9 @@ update_wordpress() {
 
     # Pular uma linha no log
     echo " " >> "$log_file"
+
+    # Redefinir permissões para www-data
+    chown www-data. wp-content/plugins wp-content/themes wp-admin wp-includes index.php wp-settings.php wp-load.php wp-login.php wp-cron.php xmlrpc.php -R
 }
 
 # Limpar ou criar o arquivo de log

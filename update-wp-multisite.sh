@@ -1,7 +1,5 @@
 #!/bin/bash
 
-update-wp-multisite-logs
-
 # Definindo o diretório raiz do WordPress como o diretório atual
 WP_PATH=$(pwd)
 
