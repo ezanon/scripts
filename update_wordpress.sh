@@ -4,39 +4,40 @@
 
 # Arquivo de log com a data no nome
 current_date=$(date +"%Y%m%d") 
-log_file="/sites-usp/scripts/logs/update_wordpress/update_wordpress_$current_date.log"
+log_file="/sites/scripts/logs/update_wordpress/update_wordpress_$current_date.log"
 
 # Basta adicionar a pasta do site na relação abaixo
 
 # Array de diretórios que contêm instalações do WordPress
 declare -a directories=(
-    "/sites-usp/dev2/www/wordpress"
-    "/sites-usp/6sbpg/www"
-    "/sites-usp/areias/www"
-    "/sites-usp/colecoes/www"
-    "/sites-usp/didatico"
-    "/sites-usp/game/www"
-    "/sites-usp/geohereditas/www"
-    "/sites-usp/geolit"
-    "/sites-usp/legal/www"
-    "/sites-usp/litoteca4/www"
-    "/sites-usp/materiaisdidaticos/www"
-    "/sites-usp/memoria/www"
-    "/sites-usp/museu/www"
-    "/sites-usp/ppegeo/www/portal"
-    "/sites-usp/recursosdidaticos/www"
-    "/sites-usp/repositorio/www"
-    "/sites-usp/rtopbrgeociencias/www"
-    "/sites-usp/transamazondrilling/www"
-    "/sites-usp/wims/www"
-    "/sites-usp/docentes/www"
-    "/sites-usp/nwldw2025"
-    "/sites-usp/csts"
-    "/sites-usp/lago"
-    "/sites-usp/replicas"
-    "/sites-usp/mineraisdelgados"
-    "/sites-usp/astrobio"
-    "/sites-usp/prh"
+    "/sites/dev2/www/wordpress"
+    "/sites/6sbpg/www"
+    "/sites/areias/www"
+    "/sites/colecoes/www"
+    "/sites/didatico"
+    "/sites/game/www"
+    "/sites/geohereditas/www"
+    "/sites/geolit"
+    "/sites/legal/www"
+    "/sites/litoteca4/www"
+    "/sites/materiaisdidaticos/www"
+    "/sites/memoria/www"
+    "/sites/museu/www"
+    "/sites/ppegeo/www/portal"
+    "/sites/recursosdidaticos/www"
+    "/sites/repositorio/www"
+    "/sites/rtopbrgeociencias/www"
+    "/sites/transamazondrilling/www"
+    "/sites/wims/www"
+    "/sites/docentes/www"
+    "/sites/nwldw2025"
+    "/sites/csts"
+    "/sites/lago"
+    "/sites/replicas"
+    "/sites/mineraisdelgados"
+    "/sites/astrobio"
+    "/sites/prh"
+    "/sites/unescochair"
 )
 
 # Lista de plugins que não devem ser atualizados
@@ -101,7 +102,7 @@ echo "Log de atualização do WordPress - $(date)" > "$log_file"
 if [ "$#" -eq 1 ]; then
     site_name="$1"
     for dir in "${directories[@]}"; do
-        extracted_name=$(echo "$dir" | sed -E 's|^/sites-usp/([^/]+).*|\1|')
+        extracted_name=$(echo "$dir" | sed -E 's|^/sites/([^/]+).*|\1|')
         if [[ "$extracted_name" == "$site_name" ]]; then
             update_wordpress "$dir"
             echo "Atualização completa para $site_name." | tee -a "$log_file"
