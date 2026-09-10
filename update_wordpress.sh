@@ -44,6 +44,8 @@ declare -a directories=(
 declare -a excluded_plugins=(
     "elementor-pro"
     "jonradio-multiple-themes"
+    "hostinger-preview-domain"
+    "hostinger-auto-updates"
 )
 
 # Função para atualizar uma instalação do WordPress
