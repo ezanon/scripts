@@ -38,6 +38,7 @@ declare -a directories=(
     "/sites/astrobio"
     "/sites/prh"
     "/sites/unescochair"
+    "/sites/gte"
 )
 
 # Lista de plugins que não devem ser atualizados
