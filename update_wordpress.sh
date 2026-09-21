@@ -68,24 +68,24 @@ update_wordpress() {
     }
 
     # Atualizar o núcleo do WordPress
-    wp core update  2>&1 | tee -a "$log_file"
+    sudo -u www-data wp core update  2>&1 | tee -a "$log_file"
 
     # Atualizar plugins, exceto os da lista de exclusão
-    for plugin in $(wp plugin list --field=name ); do
+    for plugin in $(sudo -u www-data wp plugin list --field=name ); do
         if [[ " ${excluded_plugins[@]} " =~ " $plugin " ]]; then
             echo "[INFO] Plugin $plugin está na lista de exclusão. Pulando..." | tee -a "$log_file"
         else
-            wp plugin update "$plugin"  2>&1 | tee -a "$log_file"
+            sudo -u www-data wp plugin update "$plugin"  2>&1 | tee -a "$log_file"
         fi
     done
 
     # Atualizar todos os temas
-    wp theme update --all  2>&1 | tee -a "$log_file"
+    sudo -u www-data wp theme update --all  2>&1 | tee -a "$log_file"
 
     # Atualizar pacotes de linguagem
-    wp language core update  2>&1 | tee -a "$log_file"
-    wp language plugin update --all  2>&1 | tee -a "$log_file"
-    wp language theme update --all  2>&1 | tee -a "$log_file"
+    sudo -u www-data wp language core update  2>&1 | tee -a "$log_file"
+    sudo -u www-data wp language plugin update --all  2>&1 | tee -a "$log_file"
+    sudo -u www-data wp language theme update --all  2>&1 | tee -a "$log_file"
 
     # Pular uma linha no log
     echo " " >> "$log_file"
