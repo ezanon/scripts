@@ -29,7 +29,7 @@ declare -a directories=(
     "/sites/rtopbrgeociencias/www"
     "/sites/transamazondrilling/www"
     "/sites/wims/www"
-    "/sites/docentes/www"
+#    "/sites/docentes/www"
     "/sites/nwldw2025"
     "/sites/csts"
     "/sites/lago"
@@ -47,6 +47,7 @@ declare -a excluded_plugins=(
     "jonradio-multiple-themes"
     "hostinger-preview-domain"
     "hostinger-auto-updates"
+    "disable-as-async-requests"
 )
 
 # Função para atualizar uma instalação do WordPress
@@ -92,7 +93,7 @@ update_wordpress() {
     echo " " >> "$log_file"
 
     # Redefinir permissões para www-data
-    chown www-data. wp-content/plugins wp-content/themes wp-admin wp-includes index.php wp-settings.php wp-load.php wp-login.php wp-cron.php xmlrpc.php -R || {
+    chown www-data. wp-content/languages wp-content/plugins wp-content/themes wp-admin wp-includes index.php wp-settings.php wp-load.php wp-login.php wp-cron.php xmlrpc.php -R || {
         echo "[ERRO] Falha ao redefinir permissões em $dir" | tee -a "$log_file"
         return 1
     }
