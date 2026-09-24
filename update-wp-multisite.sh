@@ -40,6 +40,9 @@ log "========== INÍCIO DA ATUALIZAÇÃO WORDPRESS MULTISITE =========="
 
 cd "$WP_PATH" || { log "Diretório não encontrado: $WP_PATH"; exit 1; }
 
+log "Ajustando permissões da pasta wp-content"
+chown www-data. wp-content wp-admin wp-includes index.php wp-settings.php wp-load.php wp-login.php wp-cron.php xmlrpc.php -R 2>&1 | tee -a "$LOG_FILE"
+
 log "Estado inicial: listagem de plugins"
 sudo -u www-data wp plugin list  2>&1 | tee -a "$LOG_FILE"
 

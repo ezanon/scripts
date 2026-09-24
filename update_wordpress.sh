@@ -48,6 +48,7 @@ declare -a excluded_plugins=(
     "hostinger-preview-domain"
     "hostinger-auto-updates"
     "disable-as-async-requests"
+    "elementor-safe-mode"
 )
 
 # Função para atualizar uma instalação do WordPress
@@ -66,6 +67,12 @@ update_wordpress() {
     # Navegar para o diretório
     cd "$dir" || {
         echo "[ERRO] Falha ao acessar o diretório $dir" | tee -a "$log_file"
+        return 1
+    }
+
+    # Redefinir permissões para www-data
+    chown www-data. wp-content/languages wp-content/plugins wp-content/themes wp-admin wp-includes index.php wp-settings.php wp-load.php wp-login.php wp-cron.php xmlrpc.php -R || {
+        echo "[ERRO] Falha ao redefinir permissões em $dir" | tee -a "$log_file"
         return 1
     }
 
@@ -92,11 +99,6 @@ update_wordpress() {
     # Pular uma linha no log
     echo " " >> "$log_file"
 
-    # Redefinir permissões para www-data
-    chown www-data. wp-content/languages wp-content/plugins wp-content/themes wp-admin wp-includes index.php wp-settings.php wp-load.php wp-login.php wp-cron.php xmlrpc.php -R || {
-        echo "[ERRO] Falha ao redefinir permissões em $dir" | tee -a "$log_file"
-        return 1
-    }
 }
 
 # Limpar ou criar o arquivo de log
