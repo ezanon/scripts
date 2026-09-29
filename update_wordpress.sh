@@ -71,7 +71,7 @@ update_wordpress() {
     }
 
     # Redefinir permissões para www-data
-    chown www-data. wp-content/languages wp-content/plugins wp-content/themes wp-admin wp-includes index.php wp-settings.php wp-load.php wp-login.php wp-cron.php xmlrpc.php -R || {
+    chown www-data. wp-content/languages wp-content/upgrade-temp-backup wp-content/plugins wp-content/themes wp-admin wp-includes index.php wp-settings.php wp-load.php wp-login.php wp-cron.php xmlrpc.php -R || {
         echo "[ERRO] Falha ao redefinir permissões em $dir" | tee -a "$log_file"
         return 1
     }
