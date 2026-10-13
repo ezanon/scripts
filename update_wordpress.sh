@@ -49,6 +49,7 @@ declare -a excluded_plugins=(
     "hostinger-auto-updates"
     "disable-as-async-requests"
     "elementor-safe-mode"
+    "contact-form-7"
 )
 
 # Função para atualizar uma instalação do WordPress
